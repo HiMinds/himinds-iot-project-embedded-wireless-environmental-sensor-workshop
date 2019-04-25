@@ -1,5 +1,5 @@
-author: mongoose-os
-description: BME280 sensor usage example (JavaScript)
+author: HiMinds
+description: HiMinds workshop
 version: 1.0
 
 libs_version: ${mos.version}
