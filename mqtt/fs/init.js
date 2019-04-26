@@ -11,7 +11,7 @@ let getInfo = function() {
 };
 
 let getInfoSimple = function() {
-  return JSON.stringify(Sys.total_ram());
+  return JSON.stringify(Sys.free_ram());
 };
 
 function timerCallback()
